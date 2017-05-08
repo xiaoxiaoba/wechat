@@ -1,2 +1,2 @@
-# wechat
-项目微信端ui
+# wechatTest
+测试项目项目微信端ui
